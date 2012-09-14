@@ -1,0 +1,56 @@
+# ***************************************************************
+# Optimisation des pages fournit par Apache 
+# Compression, Etag, ...
+# ***************************************************************
+
+#php_value zlib.output_compression 1
+#php_value zlib.output_compression_level 9
+
+FileETag MTime Size
+
+<IfModule mod_deflate.c>
+	<FilesMatch "\.(js|css)$">
+		SetOutputFilter DEFLATE
+	</FilesMatch>
+</IfModule>
+
+<IfModule mod_expires.c>
+	ExpiresActive on
+	
+	ExpiresDefault "access plus 4 hours"
+	ExpiresByType text/html A90
+	ExpiresByType text/plain A90
+	ExpiresByType text/xml A90
+	
+	ExpiresByType text/css "access plus 1 month"
+	
+	ExpiresByType application/x-javascript "access plus 1 month"
+	ExpiresByType text/javascript "access plus 1 month"
+	
+	ExpiresByType image/gif "modified plus 1 year"
+	ExpiresByType image/jpg "modified plus 1 year"
+	ExpiresByType image/jpeg "modified plus 1 year"
+	ExpiresByType image/png "modified plus 1 year"
+	
+	ExpiresByType application/x-shockwave-flash A3600
+</IfModule>
+
+
+
+#--------------------------------------------------
+# Règles de réécriture d'URL :
+#--------------------------------------------------
+# Le serveur doit suivre les liens symboliques :
+Options +FollowSymlinks
+# Activation du module de réécriture d'URL :
+RewriteEngine on
+#RewriteBase /
+
+RewriteRule ^(([a-z][a-z])|)$						/cms_mobile/web/fr/			[R,L]
+RewriteRule ^([a-z][a-z])/$							index.php?lang=$1			[L]
+RewriteRule ^([a-z][a-z])/([0-9]*)-(.*)$			index.php?lang=$1&page=$2	[L]
+# setup
+RewriteRule ^([a-z][a-z])/setup$					setup/index.php				[L]
+
+# custom 404 page
+ErrorDocument 404 									/cms_mobile/web/404error.php

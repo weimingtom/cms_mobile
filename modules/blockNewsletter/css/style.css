@@ -1,0 +1,5 @@
+@CHARSET "ISO-8859-1";
+
+#newsletterBox {padding:9px; margin-top:8px;}
+#newsletterBox label {font-size:9px; font-weight:bold;}
+#newsletterBox .newsletterText {background-color:white; border:medium none; color:#5C5C5C; display:inline-block; font-size:9px; height:23px; max-width:300px; width:60%;}

@@ -1,0 +1,362 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Réunica\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-13 16:17+0100\n"
+"PO-Revision-Date: 2012-05-07 16:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: Mcréation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: t;tPlural:1,2\n"
+"X-Poedit-Basepath: ../../\n"
+"Plural-Forms: nplurals=2; plural=(n>1)\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: core\n"
+"X-Poedit-SearchPath-1: pages-crm\n"
+"X-Poedit-SearchPath-2: pages-extranet\n"
+
+msgid "Near hotels"
+msgstr ""
+
+msgid "Destinations"
+msgstr ""
+
+msgid "Hotel &amp; Preferences"
+msgstr ""
+
+msgid "Distance"
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid "Design"
+msgstr ""
+
+msgid "Presentation"
+msgstr ""
+
+msgid "Services / Equipments"
+msgstr ""
+
+msgid "See the map"
+msgstr ""
+
+msgid "Tel."
+msgstr ""
+
+msgid "By name"
+msgstr ""
+
+msgid "Hotels by destination"
+msgstr ""
+
+msgid "Hotels by name"
+msgstr ""
+
+msgid "Meeting Request"
+msgstr ""
+
+msgid "Estimate"
+msgstr ""
+
+msgid "hotel(s) correspond to your search"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Set"
+msgstr ""
+
+msgid "mm/dd/yyyy"
+msgstr ""
+
+msgid "mmddy"
+msgstr ""
+
+msgid "Sunday"
+msgstr ""
+
+msgid "Monday"
+msgstr ""
+
+msgid "Tuesday"
+msgstr ""
+
+msgid "Wednesday"
+msgstr ""
+
+msgid "Thursday"
+msgstr ""
+
+msgid "Friday"
+msgstr ""
+
+msgid "Saturday"
+msgstr ""
+
+msgid "January"
+msgstr ""
+
+msgid "February"
+msgstr ""
+
+msgid "March"
+msgstr ""
+
+msgid "April"
+msgstr ""
+
+msgid "May"
+msgstr ""
+
+msgid "June"
+msgstr ""
+
+msgid "July"
+msgstr ""
+
+msgid "August"
+msgstr ""
+
+msgid "September"
+msgstr ""
+
+msgid "October"
+msgstr ""
+
+msgid "November"
+msgstr ""
+
+msgid "December"
+msgstr ""
+
+msgid "Day"
+msgstr ""
+
+msgid "Month"
+msgstr ""
+
+msgid "Year"
+msgstr ""
+
+msgid "Arrival date"
+msgstr ""
+
+msgid "Departure date"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Region"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "Number of delegates"
+msgstr ""
+
+msgid "Salutation"
+msgstr ""
+
+msgid "First name"
+msgstr ""
+
+msgid "Company"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "The fields"
+msgstr ""
+
+msgid "is compulsory"
+msgstr ""
+
+msgid "Your address mail is invalide"
+msgstr ""
+
+msgid "Your meeting request was sent"
+msgstr ""
+
+msgid "Date/Place"
+msgstr ""
+
+msgid "Place"
+msgstr ""
+
+msgid "Prestations"
+msgstr ""
+
+msgid "Mr."
+msgstr ""
+
+msgid "Mrs."
+msgstr ""
+
+msgid "Miss."
+msgstr ""
+
+msgid "Choose a country"
+msgstr ""
+
+msgid "All regions"
+msgstr ""
+
+msgid "All cities"
+msgstr ""
+
+msgid "Choose a region"
+msgstr ""
+
+msgid "Choose a city"
+msgstr ""
+
+msgid "Proposal request"
+msgstr ""
+
+msgid "Or call at"
+msgstr ""
+
+msgid "Capacity chart"
+msgstr ""
+
+msgid "Equipment available"
+msgstr ""
+
+msgid "Restaurant / Gastronomy"
+msgstr ""
+
+msgid "Activities"
+msgstr ""
+
+msgid "Attraction"
+msgstr ""
+
+msgid "Seminar price list"
+msgstr ""
+
+msgid "Hotel"
+msgstr ""
+
+msgid "Daily delegate package"
+msgstr ""
+
+msgid "Rate per person with: meeting room rent, coffee breaks, lunch."
+msgstr ""
+
+msgid "Semi-residential seminar"
+msgstr ""
+
+msgid "Rate per person with: room, meeting room rental, coffee break, lunch or dinner, breakfast"
+msgstr ""
+
+msgid "Residential seminar"
+msgstr ""
+
+msgid "Rate per person with: room, meeting room rental, coffee break, lunch and dinner, breakfast"
+msgstr ""
+
+msgid "chambres_suites_nb"
+msgstr "Rooms and suites"
+
+msgid "seminaire_nb_salons"
+msgstr "Meeting room(s)"
+
+msgid "seminaire_capa_salon"
+msgstr "Meeting space occupancy"
+
+msgid "seminaire_capa_salon_2"
+msgstr "pax"
+
+msgid "seminaire_surface_salon"
+msgstr "Meeting space surface :"
+
+msgid "seminaire_salle_lumiere_du_jour"
+msgstr "Day light room"
+
+msgid "restaurant_grande_table"
+msgstr "Gastronomic restaurant"
+
+msgid "hotel_internet_gratuit"
+msgstr "Free Internet access"
+
+msgid "seminaire_internet_gratuit"
+msgstr "Free Internet access in the meeting room(s)"
+
+msgid "hotel_clim"
+msgstr "Air conditioning"
+
+msgid "hotel_fitness"
+msgstr "Fitness center"
+
+msgid "hotel_bar"
+msgstr "Bar"
+
+msgid "hotel_piscine"
+msgstr "Swimming pool"
+
+msgid "hotel_tennis"
+msgstr "Tennis"
+
+msgid "hotel_parking"
+msgstr "Car park"
+
+msgid "hotel_ascenseur"
+msgstr "Lift"
+
+msgid "Near"
+msgstr ""
+
+msgid "On demand"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Your e-mail address is incorrect"
+msgstr ""
+
+msgid "Thank you for your registration"
+msgstr ""
+
+msgid "Lastname"
+msgstr ""
+
+msgid "Firstname"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Company"
+msgstr ""
+
+msgid "Object"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Catpcha"
+msgstr ""

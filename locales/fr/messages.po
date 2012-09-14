@@ -1,0 +1,364 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Réunica\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-13 16:17+0100\n"
+"PO-Revision-Date: 2012-05-07 16:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: Mcréation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: t;tPlural:1,2\n"
+"X-Poedit-Basepath: ../../\n"
+"Plural-Forms: nplurals=2; plural=(n>1)\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: core\n"
+"X-Poedit-SearchPath-1: pages-crm\n"
+"X-Poedit-SearchPath-2: pages-extranet\n"
+
+msgid "Near hotels"
+msgstr "Hôtels à proximité"
+
+msgid "Destinations"
+msgstr "Destinations"
+
+msgid "Hotel &amp; Preferences"
+msgstr "Hôtel &amp; Préférences"
+
+msgid "Distance"
+msgstr "Distance"
+
+msgid "From"
+msgstr "A partir de"
+
+msgid "Design"
+msgstr "Conception"
+
+msgid "Presentation"
+msgstr "Présentation"
+
+msgid "Services / Equipments"
+msgstr "Services / Equipements"
+
+msgid "See the map"
+msgstr "Voir la carte"
+
+msgid "Tel."
+msgstr "Tél."
+
+msgid "By name"
+msgstr "Par nom"
+
+msgid "Hotels by destination"
+msgstr "Hôtels par destination"
+
+msgid "Hotels by name"
+msgstr "Hôtels par nom"
+
+msgid "Meeting Request"
+msgstr "Demande de devis"
+
+msgid "Estimate"
+msgstr "Devis"
+
+msgid "hotel(s) correspond to your search"
+msgstr "hôtel(s) corresonde(nt) à votre recherche"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Search"
+msgstr "Rechercher"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Set"
+msgstr "Valider"
+
+msgid "mm/dd/yyyy"
+msgstr "dd/mm/yyyy"
+
+msgid "mmddy"
+msgstr "ddmmyy"
+
+msgid "Sunday"
+msgstr "Dimanche"
+
+msgid "Monday"
+msgstr "Lundi"
+
+msgid "Tuesday"
+msgstr "Mardi"
+
+msgid "Wednesday"
+msgstr "Mercredi"
+
+msgid "Thursday"
+msgstr "Jeudi"
+
+msgid "Friday"
+msgstr "Vendredi"
+
+msgid "Saturday"
+msgstr "Samedi"
+
+msgid "January"
+msgstr "Janvier"
+
+msgid "February"
+msgstr "Février"
+
+msgid "March"
+msgstr "Mars"
+
+msgid "April"
+msgstr "Avril"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "June"
+msgstr "Juin"
+
+msgid "July"
+msgstr "Juillet"
+
+msgid "August"
+msgstr "Août"
+
+msgid "September"
+msgstr "Septembre"
+
+msgid "October"
+msgstr "Octobre"
+
+msgid "November"
+msgstr "Novembre"
+
+msgid "December"
+msgstr "Décembre"
+
+msgid "Day"
+msgstr "Jour"
+
+msgid "Month"
+msgstr "Mois"
+
+msgid "Year"
+msgstr "Année"
+
+msgid "Arrival date"
+msgstr "Date d'arrivée"
+
+msgid "Departure date"
+msgstr "Date de départ"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "Region"
+msgstr "Région"
+
+msgid "City"
+msgstr "Ville"
+
+msgid "Number of delegates"
+msgstr "Nb de participants"
+
+msgid "Salutation"
+msgstr "Civilité"
+
+msgid "First name"
+msgstr "Prénom"
+
+msgid "Company"
+msgstr "Société"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Phone"
+msgstr "Téléphone"
+
+msgid "The fields"
+msgstr "Le champs"
+
+msgid "is compulsory"
+msgstr "est obligatoire"
+
+msgid "Your address mail is invalide"
+msgstr "Votre adresse mail est invalide"
+
+msgid "Your meeting request was sent"
+msgstr "Votre demande de devis a été envoyée"
+
+msgid "Date/Place"
+msgstr "Date/Lieux"
+
+msgid "Place"
+msgstr "Lieux"
+
+msgid "Prestations"
+msgstr "Prestations"
+
+msgid "Mr."
+msgstr "M."
+
+msgid "Mrs."
+msgstr "Mme"
+
+msgid "Miss."
+msgstr "Mlle"
+
+msgid "Choose a country"
+msgstr "Choisir un pays"
+
+msgid "All regions"
+msgstr "Toute les régions"
+
+msgid "All cities"
+msgstr "Toutes les villes"
+
+msgid "Choose a region"
+msgstr "Choisir une région"
+
+msgid "Choose a city"
+msgstr "Choisir une ville"
+
+msgid "Proposal request"
+msgstr "Obtenir un devis"
+
+msgid "Or call at"
+msgstr "Ou appelez le"
+
+msgid "Capacity chart"
+msgstr "Capacité et superficie d'accueil"
+
+msgid "Equipment available"
+msgstr "Equipements disponibles"
+
+msgid "Restaurant / Gastronomy"
+msgstr "Restauration / Gastronomie"
+
+msgid "Activities"
+msgstr "Activités / Incentive"
+
+msgid "Attraction"
+msgstr "Tourisme"
+
+msgid "Seminar price list"
+msgstr "Tarifs séminaire"
+
+msgid "Hotel"
+msgstr "Etablissement"
+
+msgid "Daily delegate package"
+msgstr "Journée d'étude"
+
+msgid "Rate per person with: meeting room rent, coffee breaks, lunch."
+msgstr "Prix par personne avec : la location de la salle, les pauses café, le déjeuner. "
+
+msgid "Semi-residential seminar"
+msgstr "Séminaire semi-résidentiel"
+
+msgid "Rate per person with: room, meeting room rental, coffee break, lunch or dinner, breakfast"
+msgstr "Prix par personne avec : l'hébergement, la location de la salle, les pauses café, le déjeuner ou le dîner, les petits déjeuners "
+
+msgid "Residential seminar"
+msgstr "Séminaire résidentiel"
+
+msgid "Rate per person with: room, meeting room rental, coffee break, lunch and dinner, breakfast"
+msgstr "Prix par personne avec : l'hébergement, la location de la salle, les pauses café, le déjeuner et le dîner, les petits déjeuners. "
+
+msgid "chambres_suites_nb"
+msgstr "Chambres et suites"
+
+msgid "seminaire_nb_salons"
+msgstr "Salon(s)"
+
+msgid "seminaire_capa_salon"
+msgstr "Capacité maximale de"
+
+msgid "seminaire_capa_salon_2"
+msgstr "personnes"
+
+msgid "seminaire_surface_salon"
+msgstr "Surface des salons :"
+
+msgid "seminaire_salle_lumiere_du_jour"
+msgstr "Salle à la lumière du jour disponible"
+
+msgid "restaurant_grande_table"
+msgstr "Restaurant gastronomique"
+
+msgid "hotel_internet_gratuit"
+msgstr "ADSL / Wifi - Offert"
+
+msgid "seminaire_internet_gratuit"
+msgstr "Accès à Internet offert <br/>dans les salles de réunion"
+
+msgid "hotel_clim"
+msgstr "Hôtel climatisé"
+
+msgid "hotel_fitness"
+msgstr "Centre de fitness"
+
+msgid "hotel_bar"
+msgstr "Bar et Salon"
+
+msgid "hotel_piscine"
+msgstr "Piscine"
+
+msgid "hotel_tennis"
+msgstr "Tennis"
+
+msgid "hotel_parking"
+msgstr "Parking"
+
+msgid "hotel_ascenseur"
+msgstr "Ascenseur"
+
+msgid "Near"
+msgstr "A proximité"
+
+msgid "On demand"
+msgstr "Sur demande"
+
+msgid "Submit"
+msgstr "Envoyer"
+
+msgid "Your e-mail address is incorrect"
+msgstr "Votre adresse mail est incorrecte"
+
+msgid "Thank you for your registration"
+msgstr "Merci pour votre inscription"
+
+
+msgid "Lastname"
+msgstr "Nom"
+
+msgid "Firstname"
+msgstr "Prénom"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Phone"
+msgstr "Téléphone"
+
+msgid "Company"
+msgstr "Société"
+
+msgid "Object"
+msgstr "Objet"
+
+msgid "Content"
+msgstr "Message"
+
+msgid "Catpcha"
+msgstr "Captcha"
+
